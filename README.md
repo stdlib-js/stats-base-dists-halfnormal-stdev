@@ -64,7 +64,7 @@ where `σ > 0` is the scale parameter.
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-halfnormal-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-halfnormal-stdev@v0.1.1-deno/mod.js';
 ```
 
 #### stdev( sigma )
@@ -109,7 +109,7 @@ var y = stdev( -1.0 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-halfnormal-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-halfnormal-stdev@v0.1.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
