@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-08)
+## Unreleased (2026-08-09)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`12769a7`](https://github.com/stdlib-js/stdlib/commit/12769a7152892853b8380b386a43d4ce6777321e) - **test:** migrate `stats/base/dists/halfnormal/stdev` to ULP-based assertions [(#14084)](https://github.com/stdlib-js/stdlib/pull/14084) _(by Athan Reines)_
 -   [`31b9282`](https://github.com/stdlib-js/stdlib/commit/31b92826dc9908a24cedf35e7e63592ce9d6cd69) - **docs:** propagate equation-label / SVG copy-paste fixes across `stats/base/dists/*` [(#11799)](https://github.com/stdlib-js/stdlib/pull/11799) _(by Philipp Burckhardt)_
 -   [`6ecc272`](https://github.com/stdlib-js/stdlib/commit/6ecc272a3117e71d4a9b0ec55864e5fed4e2386c) - **chore:** fix example code and add missing semicolon _(by Philipp Burckhardt)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
